@@ -1,0 +1,9 @@
+rasterio
+numpy
+Pillow
+fastai
+scikit-learn
+matplotlib
+tifffile
+earthengine-api
+scipy
