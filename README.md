@@ -11,5 +11,5 @@ Manual mapping of greenhouses is time-consuming and inefficient. This project ai
 One of the key challenges in using Sentinel-2 images is the spectral signature of plastic structures, which can be confused with other types of land cover. Spatial context is crucial, which is implicitly utilized through these deep learning techniques.
 
 ## Prerequisites
-Python 3.8 or higher
+Python 3.8 or higher\
 Required Python packages (listed in requirements.txt)
